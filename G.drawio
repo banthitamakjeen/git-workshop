@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-24T08:35:00.748Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="mzbv5kygbo1Olli3rCkA" version="22.0.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-24T08:35:26.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="EW6mtFDTXnivA_AeuYvJ" version="22.0.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1518" dy="665" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="890" dy="390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -60,9 +60,6 @@
             <mxPoint x="279.68999999999994" y="301.14" as="sourcePoint" />
             <mxPoint x="280" y="350" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="R21NLfSmPDXUTUfI8ZI1-49" value="if yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="280" y="308.5" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="R21NLfSmPDXUTUfI8ZI1-50" value="หาหนังสือเล่มอื่นที่สนใจอ่าน" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FAB5FF;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="20" y="338.5" width="130" height="60" as="geometry" />
