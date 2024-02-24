@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-02-24T06:26:25.829Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="i7Gm6KDXmel1aHd5jnHI" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-24T17:05:11.686Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="mbvuFoZ7R1MAe7nuEkj8" version="23.1.6" type="github">
   <diagram name="Page-1" id="74e2e168-ea6b-b213-b513-2b3c1d86103e">
-    <mxGraphModel dx="3967" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="3680" dy="280" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="71vBWBUTIe0P6EMkCV_P-2" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;วัตถุดิบ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-300" y="1620" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสวัตถุดิบ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-3" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;รหัสวัตถุดิบ&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-470" y="1535" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-4" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ชื่อวัตถุดิบ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -19,7 +19,7 @@
         <mxCell id="71vBWBUTIe0P6EMkCV_P-16" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;หน่วยนับวัตถุดิบ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-310" y="1905" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสหน่วยนับวัตถุดิบ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-17" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;รหัสหน่วยนับวัตถุดิบ&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-420" y="2025" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-18" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ชื่อหน่วยนับวัตถุดิบ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -40,7 +40,7 @@
         <mxCell id="71vBWBUTIe0P6EMkCV_P-24" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ปริมาณที่ได้รับ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-650" y="1525" width="150" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสใบสั่งซื้อ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-25" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;รหัสใบสั่งซื้อ&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-990" y="1995" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-26" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;วันที่&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -61,19 +61,19 @@
         <mxCell id="71vBWBUTIe0P6EMkCV_P-32" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;กลุ่มเมนู&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="540" y="1295" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสกลุ่ม&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-33" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;รหัสกลุ่ม&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="1175" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-34" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ชื่อกลุ่ม&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="1165" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสประเภท&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-35" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;รหัสประเภท&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="530" y="1530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-36" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ชื่อประเภท&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="1525" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสเมนู&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-37" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;รหัสเมนู&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="220" y="1740" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-38" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;ชื่อเมนู&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -100,7 +100,7 @@
         <mxCell id="71vBWBUTIe0P6EMkCV_P-46" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;โต๊ะ&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-10" y="1135" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-47" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;เลขที่โต๊ะ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-47" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;เลขที่โต๊ะ&lt;/u&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-110" y="1005" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-48" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;โซน&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -118,11 +118,8 @@
         <mxCell id="71vBWBUTIe0P6EMkCV_P-56" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;สถานะการจ่ายเงิน&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-430" y="1415" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-57" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;รายการที่สั่ง&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="1305" width="265" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-58" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสเมนู&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="95" y="1445" width="120" height="80" as="geometry" />
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-57" value="&lt;font style=&quot;font-size: 36px;&quot;&gt;รายการอาหารที่สั่ง&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="95" y="1305" width="285" height="80" as="geometry" />
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-59" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;จำนวน&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="1445" width="120" height="80" as="geometry" />
@@ -316,7 +313,7 @@
             <mxPoint x="-170" y="1985" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-113" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" target="71vBWBUTIe0P6EMkCV_P-2" edge="1" source="71vBWBUTIe0P6EMkCV_P-5">
+        <mxCell id="71vBWBUTIe0P6EMkCV_P-113" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="71vBWBUTIe0P6EMkCV_P-5" target="71vBWBUTIe0P6EMkCV_P-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-370" y="1775" as="sourcePoint" />
             <mxPoint x="-320" y="1725" as="targetPoint" />
@@ -395,12 +392,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-170" y="1435" as="sourcePoint" />
             <mxPoint x="-120" y="1385" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="71vBWBUTIe0P6EMkCV_P-130" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="71vBWBUTIe0P6EMkCV_P-58" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="110" y="1435" as="sourcePoint" />
-            <mxPoint x="160" y="1385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="71vBWBUTIe0P6EMkCV_P-131" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="71vBWBUTIe0P6EMkCV_P-59" edge="1">
@@ -562,43 +553,34 @@
         <mxCell id="kGPIo37-fsOGhbuAAlch-5" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="320" y="1575" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;ลำดับที่สั่ง&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9BiROi7pqGTGR9e3Skqu-1" value="&lt;span style=&quot;font-size: 24px;&quot;&gt;&lt;u&gt;ลำดับที่สั่ง&lt;/u&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-40" y="1395" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="9BiROi7pqGTGR9e3Skqu-1">
+        <mxCell id="9BiROi7pqGTGR9e3Skqu-2" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="9BiROi7pqGTGR9e3Skqu-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="90" y="1445" as="sourcePoint" />
             <mxPoint x="95" y="1385" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-3" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9BiROi7pqGTGR9e3Skqu-3" value="" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-80" y="1760" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.449;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9BiROi7pqGTGR9e3Skqu-3">
+        <mxCell id="9BiROi7pqGTGR9e3Skqu-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.449;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9BiROi7pqGTGR9e3Skqu-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-21.25" y="1764" as="sourcePoint" />
             <mxPoint x="-20.25" y="1685" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="71vBWBUTIe0P6EMkCV_P-16">
+        <mxCell id="9BiROi7pqGTGR9e3Skqu-5" value="" style="endArrow=none;html=1;rounded=0;entryX=0.449;entryY=1.015;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0;exitDx=0;exitDy=0;" parent="1" source="71vBWBUTIe0P6EMkCV_P-16" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-130" y="1900" as="sourcePoint" />
             <mxPoint x="-60.75" y="1800" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-6" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;รหัสหน่วยนับ&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="1790" width="140" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-7" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.883;entryY=1.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="9BiROi7pqGTGR9e3Skqu-6" target="71vBWBUTIe0P6EMkCV_P-40">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="61" y="1730" as="sourcePoint" />
-            <mxPoint x="140" y="1690" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;M&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9BiROi7pqGTGR9e3Skqu-8" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;M&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-70" y="1675" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9BiROi7pqGTGR9e3Skqu-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="9BiROi7pqGTGR9e3Skqu-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;1&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="1875" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
